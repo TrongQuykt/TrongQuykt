@@ -17,11 +17,19 @@
 <!-- PROFILE VIEWS & STATS -->
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=TrongQuykt&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/TrongQuykt?style=for-the-badge&color=00f7f7&labelColor=1a1a2e)](https://github.com/TrongQuykt)
-[![GitHub Stars](https://img.shields.io/github/stars/TrongQuykt?style=for-the-badge&color=00f7f7&labelColor=1a1a2e&cacheBust=1)](https://github.com/TrongQuykt)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TrongQuykt&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS" height="26">
+  <a href="https://github.com/TrongQuykt">
+    <img src="https://img.shields.io/github/followers/TrongQuykt?style=for-the-badge&color=00f7f7&labelColor=1a1a2e" height="26">
+  </a>
+  <a href="https://github.com/TrongQuykt">
+    <img src="https://img.shields.io/github/stars/TrongQuykt?style=for-the-badge&color=00f7f7&labelColor=1a1a2e&cacheBust=1" height="26">
+  </a>
+  <a href="https://github.com/TrongQuykt?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/TrongQuykt&label=Total%20Repos&query=$.public_repos&style=for-the-badge&color=00f7f7&labelColor=1a1a2e" height="26">
+  </a>
+</p>
 
-[![Total Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/TrongQuykt&label=Total%20Repos&query=$.public_repos&style=for-the-badge&color=00f7f7&labelColor=1a1a2e)](https://github.com/TrongQuykt?tab=repositories)
 
 </div>
 
