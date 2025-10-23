@@ -146,6 +146,46 @@ const VyTrongQuy = {
 
 </div>
 
+
+## 📊 COMPREHENSIVE SYSTEM METRICS
+
+<div align="center">
+
+### 📈 GitHub Statistics Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=TrongQuykt&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff&ring_color=00f7f7&custom_title=GitHub%20Statistics" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TrongQuykt&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff" width="49%" alt="GitHub Streak" />
+
+### 💻 Language Distribution & Activity
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongQuykt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&langs_count=10&custom_title=Most%20Used%20Languages" width="49%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TrongQuykt&theme=github_dark&utcOffset=7" width="49%" alt="Productive Time" />
+
+### 📊 Detailed Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrongQuykt&theme=github_dark" width="100%" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrongQuykt&theme=github_dark" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrongQuykt&theme=github_dark" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrongQuykt&theme=github_dark" width="32%" alt="Stats" />
+
+### 🔥 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TrongQuykt&custom_title=12%20Month%20Contribution%20Graph&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff&area_color=0d1117&area=true&hide_border=true&height=300" width="100%">
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS & TROPHIES
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TrongQuykt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+</div>
+
 ---
 
 ## 🚀 FEATURED PROJECTS
@@ -165,7 +205,8 @@ const VyTrongQuy = {
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM5d2w4M2E2Z2FvMW9mZ295ZjN6aTQ5b204MHVlaDBpYnc0c2xiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWyv9xtsEfXQQ/giphy.gif" width="80%"/>
 </p>
-#### ✨ Features
+
+#### ✨Features
 - 🎯 Real-time seat selection system
 - 🔐 Secure payment gateway integration
 - 📊 Admin dashboard with analytics
@@ -270,7 +311,6 @@ const VyTrongQuy = {
 - 💾 **Save & Replay System** — Record solving sessions and replay animations for analysis or demos.  
 - 🔔 **Smart Error Detection** — Detects invalid cube states or impossible configurations automatically.
 
-  <img width="286" height="597" alt="image" src="https://github.com/user-attachments/assets/42fa1a6f-4f2f-4710-b67f-1d1e280562c6" />
 
 **Tech Stack:** `Java` `Flutter` `Dart` `HTML` `CSS` `Javascript` `Cuber` `Equatable` `Cupertino` `Bloc`
 
@@ -284,45 +324,6 @@ const VyTrongQuy = {
 </div>
 
 ---
-
-## 📊 COMPREHENSIVE SYSTEM METRICS
-
-<div align="center">
-
-### 📈 GitHub Statistics Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=TrongQuykt&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff&ring_color=00f7f7&custom_title=GitHub%20Statistics" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TrongQuykt&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff" width="49%" alt="GitHub Streak" />
-
-### 💻 Language Distribution & Activity
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongQuykt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&langs_count=10&custom_title=Most%20Used%20Languages" width="49%" alt="Top Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TrongQuykt&theme=github_dark&utcOffset=7" width="49%" alt="Productive Time" />
-
-### 📊 Detailed Analytics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrongQuykt&theme=github_dark" width="100%" alt="Profile Details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrongQuykt&theme=github_dark" width="32%" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrongQuykt&theme=github_dark" width="32%" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrongQuykt&theme=github_dark" width="32%" alt="Stats" />
-
-### 🔥 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TrongQuykt&custom_title=12%20Month%20Contribution%20Graph&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff&area_color=0d1117&area=true&hide_border=true&height=300" width="100%">
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS & TROPHIES
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TrongQuykt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-</div>
 
 ---
 
