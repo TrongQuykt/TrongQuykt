@@ -50,7 +50,7 @@
 const VyTrongQuy = {
   role: "Full Stack Web Developer | AWS Cloud Engineer",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  tech: ["PHP", "JavaScript", "Python", "C#", "Java", "MySQL"],
+  tech: ["PHP", "JavaScript", "Python", "REST API", "Next.js", "Java", "MySQL"],
   focus: ["Web Development", "AWS Cloud", "AI Integration", "Scalable Systems"],
   motto: "Build scalable systems. Deploy with confidence.",
 };
@@ -62,11 +62,11 @@ const VyTrongQuy = {
 
 ---
 
-## ⚡ TECH ARSENAL
+## TECH SKILLS
 
-<div align="center">
+<div align="left">
 
-## 🎯 Core Programming & Platform
+## Core Programming & Platform
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
@@ -76,21 +76,21 @@ const VyTrongQuy = {
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 
-## 🤖 AI, Machine Learning & Data Science
+## AI, Machine Learning & Data Science
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)](https://scikit-learn.org/)
 [![Deep Learning](https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Data Science](https://img.shields.io/badge/Data_Science-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-## 🔌 Backend & API
+## Backend & API
 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![RESTful API](https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 
-## 🎨 Frontend & UI/UX
+## Frontend & UI/UX
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -103,13 +103,13 @@ const VyTrongQuy = {
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
-## 🗄️ Database Technologies
+## Database Technologies
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
 [![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
@@ -123,20 +123,20 @@ const VyTrongQuy = {
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 
-## 🤖 AI & Cloud APIs
+## AI & Cloud APIs
 
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud_Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://console.cloud.google.com/)
 [![Google Cloud APIs](https://img.shields.io/badge/Google_Cloud_APIs-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/apis)
 
-## 💳 Payment Gateways (E-commerce)
+## Payment Gateways (E-commerce)
 
 [![VNPay](https://img.shields.io/badge/VNPay-005BAC?style=for-the-badge&logo=visa&logoColor=white)](https://vnpay.vn/)
 [![MoMo](https://img.shields.io/badge/MoMo-E6007A?style=for-the-badge&logo=wallet&logoColor=white)](https://momo.vn/)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 
-## 🛠️ Tools & Workflow
+## Tools & Workflow
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -153,7 +153,7 @@ const VyTrongQuy = {
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/)
 
-## 🧠 AI Tools in Daily Work
+## AI Tools in Daily Work
 
 [![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://stitch.withgoogle.com/)
 [![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)](https://aistudio.google.com/)
@@ -167,21 +167,21 @@ const VyTrongQuy = {
 </div>
 
 
-## 📊 COMPREHENSIVE SYSTEM METRICS
+## COMPREHENSIVE SYSTEM METRICS
 
 <div align="center">
 
-### 📈 GitHub Statistics Overview
+### GitHub Statistics Overview
 
 <img src="https://github-readme-stats.vercel.app/api?username=TrongQuykt&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff&ring_color=00f7f7&custom_title=GitHub%20Statistics" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TrongQuykt&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff" width="49%" alt="GitHub Streak" />
 
-### 💻 Language Distribution & Activity
+### Language Distribution & Activity
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongQuykt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&langs_count=10&custom_title=Most%20Used%20Languages" width="49%" alt="Top Languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TrongQuykt&theme=github_dark&utcOffset=7" width="49%" alt="Productive Time" />
 
-### 📊 Detailed Analytics
+### Detailed Analytics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrongQuykt&theme=github_dark" width="100%" alt="Profile Details" />
 
@@ -189,7 +189,7 @@ const VyTrongQuy = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrongQuykt&theme=github_dark" width="32%" alt="Most Commit Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrongQuykt&theme=github_dark" width="32%" alt="Stats" />
 
-### 🔥 Contribution Activity Graph
+### Contribution Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrongQuykt&custom_title=12%20Month%20Contribution%20Graph&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff&area_color=0d1117&area=true&hide_border=true&height=300" width="100%">
 
@@ -208,7 +208,7 @@ const VyTrongQuy = {
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## FEATURED PROJECTS
 
 <div align="center">
 
@@ -223,17 +223,17 @@ const VyTrongQuy = {
 
 **BanVeXemPhim - Website for Booking Movie Tickets Online**
 <p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM5d2w4M2E2Z2FvMW9mZ295ZjN6aTQ5b204MHVlaDBpYnc0c2xiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWyv9xtsEfXQQ/giphy.gif" width="80%"/>
+<img width="1463" height="686" alt="image" src="https://github.com/user-attachments/assets/54d3211d-f5ab-483e-bc02-161a9a713cd9" />
 </p>
 
-#### ✨Features
-- 🎯 Real-time seat selection system
-- 🔐 Secure payment gateway integration
-- 📊 Admin dashboard with analytics
-- ⚡ High-performance caching layer
-- 🌐 Responsive mobile-first design
-- 📧 Automated email notifications
-- 🎫 QR code ticket generation
+#### Features
+- Real-time seat selection system
+- Secure payment gateway integration
+- Admin dashboard with analytics
+- High-performance caching layer
+- Responsive mobile-first design
+- Automated email notifications
+- QR code ticket generation
 
 **Tech Stack:** `PHP` `MySQL` `AWS EC2` `S3` `CloudFront` `WAF` `Router 53` `RDS` `Auto Scaling Group` `ELB`
 
@@ -252,19 +252,19 @@ const VyTrongQuy = {
 **Ecommerce-Electronic Web**
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p5b204ZWYwY2w5NzBkbnB6bTFpbHZjcGVqZXZqb2d0ZnR6cm5zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QaanGWB4OFhZ7QkEeS/giphy.gif" width="45%" alt="Ecommerce Animation"/>
+  <img width="830" height="391" alt="image" src="https://github.com/user-attachments/assets/1ace094f-2d65-406c-863d-ba4133c9b25b" />
 </p>
 
 
-#### ✨ Features – E-Commerce Electronics Platform
-- 🛍️ **Smart Product Catalog** — Advanced filtering, category hierarchy, and keyword search for thousands of electronic items.
-- ⚡ **Dynamic Cart & Checkout** — Real-time updates, discounts, and shipping calculation for smooth UX.
-- 🔐 **Secure Payment Gateway** — Supports PayPal, Stripe, MoMo, and VNPay with full SSL encryption.
-- 📦 **Inventory Management System** — Auto-sync stock levels, reorder alerts, and supplier tracking.
-- 📊 **Admin Dashboard & Analytics** — Monitor sales, customers, top products, and revenue in real time.
-- 📱 **Responsive UI/UX** — Optimized for all devices using TailwindCSS & modern JS frameworks.
-- ✉️ **Automated Email & SMS Notifications** — Order confirmations, shipping updates, and promotions.
-- 🧾 **Invoice & Tax Management** — Auto-generated invoices with digital signature and tax reports.
+#### Features – E-Commerce Electronics Platform
+-  **Smart Product Catalog** — Advanced filtering, category hierarchy, and keyword search for thousands of electronic items.
+-  **Dynamic Cart & Checkout** — Real-time updates, discounts, and shipping calculation for smooth UX.
+-  **Secure Payment Gateway** — Supports PayPal, Stripe, MoMo, and VNPay with full SSL encryption.
+-  **Inventory Management System** — Auto-sync stock levels, reorder alerts, and supplier tracking.
+-  **Admin Dashboard & Analytics** — Monitor sales, customers, top products, and revenue in real time.
+-  **Responsive UI/UX** — Optimized for all devices using TailwindCSS & modern JS frameworks.
+-  **Automated Email & SMS Notifications** — Order confirmations, shipping updates, and promotions.
+-  **Invoice & Tax Management** — Auto-generated invoices with digital signature and tax reports.
 
 **Tech Stack:** `Java` `Java Persistence API` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap` `Thymeleaf`
 
@@ -286,18 +286,18 @@ const VyTrongQuy = {
 **Ecommerce-Auto Web**
 
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB0OHp3NXljZXBzc2hvbGVtb3B6NWJzaTF3ZGZ3aHJ2c2F3dTRwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIMsLsQTJzAn6/giphy.gif" width="80%"/>
+<img width="778" height="326" alt="image" src="https://github.com/user-attachments/assets/35409e0d-7915-4bfe-9ab4-317891b0b565" />
 </p>
 
-#### 🚀 Features – E-Commerce Automation Platform
-- 🧠 **AI-Driven Product Management** — Automatically categorizes, tags, and updates products with smart recognition.  
-- 🤖 **Auto-Pricing & Discount Engine** — Dynamically adjusts prices and promotions based on demand and stock level.  
-- 🔍 **Intelligent Search & Recommendation** — Personalized product suggestions powered by machine learning.  
-- ⚙️ **Workflow Automation** — Automatically handles order status updates, restocking, and supplier communication.  
-- 📦 **Smart Inventory Tracking** — Real-time stock synchronization across warehouses and sales channels.  
-- 💳 **Secure Payment Integration** — Supports multiple payment gateways with fraud detection AI.  
-- 📈 **Advanced Analytics Dashboard** — Visualize sales trends, customer behavior, and conversion performance.  
-- ✉️ **Automated Marketing Campaigns** — Email, push, and social media automation for customer engagement.  
+####  Features – E-Commerce Automation Platform
+-  **AI-Driven Product Management** — Automatically categorizes, tags, and updates products with smart recognition.  
+-  **Auto-Pricing & Discount Engine** — Dynamically adjusts prices and promotions based on demand and stock level.  
+-  **Intelligent Search & Recommendation** — Personalized product suggestions powered by machine learning.  
+-  **Workflow Automation** — Automatically handles order status updates, restocking, and supplier communication.  
+-  **Smart Inventory Tracking** — Real-time stock synchronization across warehouses and sales channels.  
+-  **Secure Payment Integration** — Supports multiple payment gateways with fraud detection AI.  
+-  **Advanced Analytics Dashboard** — Visualize sales trends, customer behavior, and conversion performance.  
+-  **Automated Marketing Campaigns** — Email, push, and social media automation for customer engagement.  
 
 <img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/4b66f6df-5d99-4781-aa29-dc275ded0476" />
 
@@ -308,33 +308,35 @@ const VyTrongQuy = {
 </td>
 <td width="50%" valign="top">
 
-### 🌟 Rubik-Cube-Solver-Android-Dart
+### 🍶 Vinamilk Core Ecommerce Platform
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-00f7f7?style=for-the-badge&logo=github)](https://github.com/TrongQuykt/Rubik-Cube-Solver-Android-Dart)
-![Stars](https://img.shields.io/github/stars/TrongQuykt/Rubik-Cube-Solver-Android-Dart?style=social)
-![Forks](https://img.shields.io/github/forks/TrongQuykt/Rubik-Cube-Solver-Android-Dart?style=social)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-00f7f7?style=for-the-badge&logo=github)](https://github.com/TrongQuykt/laravel-nextjs-vnm-ecommerce)
+![Stars](https://img.shields.io/github/stars/TrongQuykt/laravel-nextjs-vnm-ecommerce?style=social)
+![Forks](https://img.shields.io/github/forks/TrongQuykt/laravel-nextjs-vnm-ecommerce?style=social)
 
-**Rubik Cube Solver On Android Simulator**
+**Vinamilk Core Ecommerce Platform**
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29wb3BtN2hoMDFmc2cyeTA1N2tyZ3M4bWVzZjhlMnNlMWlmNXlxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2CV88JdrUCOYT5Ec8j/giphy.gif" width="50%"/>
+<img width="1535" height="859" alt="image" src="https://github.com/user-attachments/assets/21f23cc7-94a6-4352-9b97-02cce3a2dc40" />
 </p>
-
-
-#### 🚀 Features – Rubik Cube Solver (Android Simulator)
-- 🧩 **3D Rubik Simulation Engine** — Realistic cube rotation physics and smooth OpenGL rendering.  
-- 📱 **Interactive Touch Controls** — Rotate, drag, and twist faces naturally via Android gestures.  
-- ⚙️ **Step-by-Step Visual Guide** — Animated solving steps with color highlights for easy understanding.  
-- 🎨 **Customizable Cube Themes** — Choose colors, lighting, and reflection styles for immersive visuals.  
-- 🔍 **Move Analyzer** — Displays real-time move count, efficiency metrics, and solution depth.  
-- 📊 **Performance Optimized** — Multithreaded computation ensuring smooth performance on simulators and devices.  
-- 💾 **Save & Replay System** — Record solving sessions and replay animations for analysis or demos.  
-- 🔔 **Smart Error Detection** — Detects invalid cube states or impossible configurations automatically.
-
-
-**Tech Stack:** `Java` `Flutter` `Dart` `HTML` `CSS` `Javascript` `Cuber` `Equatable` `Cupertino` `Bloc`
-
-**Complete:** 100% faster development cycles
+ 
+#### Features – Vinamilk Core Ecommerce Platform
+- **Full-stack Ecommerce Solution** — Complete shopping experience from product browsing to order fulfillment with Laravel + Next.js.
+- **Advanced Inventory Management** — Real-time stock tracking with low stock alerts, stock reservations, and movement logging.
+- **Multi-payment Gateway Integration** — Support for COD, MoMo, VNPay, Stripe, and PayPal with secure transaction handling.
+- **AI-powered Chatbot** — Intelligent customer support with Google Gemini API integration and knowledge base.
+- **Loyalty Program System** — Multi-tier rewards system with point accumulation and redemption.
+- **Filament Admin Panel** — Modern, role-based admin interface for comprehensive platform management.
+- **Responsive Design** — Mobile-first approach with modern UI/UX using TailwindCSS.
+- **Real-time Analytics** — Dashboard with live metrics, sales charts, and performance reports.
+- **Blog & Event Management** — Content management system for blog posts and event news with rich text editing.
+- **Vinamilk Care Service** — Subscription-based milk delivery system with scheduling and management.
+- **Stock Movement Tracking** — Automatic logging of all stock changes with admin edit detection.
+- **Role-based Access Control** — Comprehensive permission system for admin panel users.
+ 
+**Tech Stack:** `Laravel` `PHP` `MySQL` `Redis` `Next.js` `TypeScript` `TailwindCSS` `Filament` `Sanctum` `Spatie` `Zustand` `React Hook Form` `Axios` `Lucide React`
+ 
+**Complete:** 100% production-ready ecommerce platform
 
 
 </td>
@@ -356,7 +358,7 @@ const VyTrongQuy = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trongquykt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyquy633@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrongQuykt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f7f7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f7f7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://trongquykt.vercel.app/)
 
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
