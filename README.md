@@ -3,7 +3,7 @@
 
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B0EEB,100:00E7F7&height=300&section=header&text=VY%20TRỌNG%20QUÝ&fontSize=80&fontAlignY=35&fontColor=E6E6FA&desc=Full%20Stack%20Web%20Developer%20%7C%20System%20Designer&descSize=20&descAlignY=55&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B0EEB,100:00E7F7&height=300&section=header&text=VY%20TRỌNG%20QUÝ&fontSize=80&fontAlignY=35&fontColor=E6E6FA&desc=Full%20Stack%20Developer%20%7C%20System%20Designer&descSize=20&descAlignY=55&animation=twinkling)
 
 
 </div>
@@ -278,36 +278,6 @@ const VyTrongQuy = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Ecommerce-Auto
-[![Repo](https://img.shields.io/badge/GitHub-Repo-00f7f7?style=for-the-badge&logo=github)](https://github.com/TrongQuykt/Ecommerce-Auto)
-![Stars](https://img.shields.io/github/stars/TrongQuykt/Ecommerce-Auto?style=social)
-![Forks](https://img.shields.io/github/forks/TrongQuykt/Ecommerce-Auto?style=social)
-
-**Ecommerce-Auto Web**
-
-<p align="center">
-<img width="778" height="326" alt="image" src="https://github.com/user-attachments/assets/35409e0d-7915-4bfe-9ab4-317891b0b565" />
-</p>
-
-####  Features – E-Commerce Automation Platform
--  **AI-Driven Product Management** — Automatically categorizes, tags, and updates products with smart recognition.  
--  **Auto-Pricing & Discount Engine** — Dynamically adjusts prices and promotions based on demand and stock level.  
--  **Intelligent Search & Recommendation** — Personalized product suggestions powered by machine learning.  
--  **Workflow Automation** — Automatically handles order status updates, restocking, and supplier communication.  
--  **Smart Inventory Tracking** — Real-time stock synchronization across warehouses and sales channels.  
--  **Secure Payment Integration** — Supports multiple payment gateways with fraud detection AI.  
--  **Advanced Analytics Dashboard** — Visualize sales trends, customer behavior, and conversion performance.  
--  **Automated Marketing Campaigns** — Email, push, and social media automation for customer engagement.  
-
-<img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/4b66f6df-5d99-4781-aa29-dc275ded0476" />
-
-**Tech Stack:** `C#` `ASP.NET MVC` `SQL Server` `HTML` `CSS` `Javascript` `Angular`
-
-**Complete:** 100% faster development cycles
-
-</td>
-<td width="50%" valign="top">
-
 ### 🍶 Vinamilk Core Ecommerce Platform
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-00f7f7?style=for-the-badge&logo=github)](https://github.com/TrongQuykt/laravel-nextjs-vnm-ecommerce)
@@ -337,6 +307,31 @@ const VyTrongQuy = {
 **Tech Stack:** `Laravel` `PHP` `MySQL` `Redis` `Next.js` `TypeScript` `TailwindCSS` `Filament` `Sanctum` `Spatie` `Zustand` `React Hook Form` `Axios` `Lucide React`
  
 **Complete:** 100% production-ready ecommerce platform
+
+</td>
+<td width="50%" valign="top">
+
+**Ecommerce-Auto Web**
+
+<p align="center">
+<img width="778" height="326" alt="image" src="https://github.com/user-attachments/assets/35409e0d-7915-4bfe-9ab4-317891b0b565" />
+</p>
+
+####  Features – E-Commerce Automation Platform
+-  **AI-Driven Product Management** — Automatically categorizes, tags, and updates products with smart recognition.  
+-  **Auto-Pricing & Discount Engine** — Dynamically adjusts prices and promotions based on demand and stock level.  
+-  **Intelligent Search & Recommendation** — Personalized product suggestions powered by machine learning.  
+-  **Workflow Automation** — Automatically handles order status updates, restocking, and supplier communication.  
+-  **Smart Inventory Tracking** — Real-time stock synchronization across warehouses and sales channels.  
+-  **Secure Payment Integration** — Supports multiple payment gateways with fraud detection AI.  
+-  **Advanced Analytics Dashboard** — Visualize sales trends, customer behavior, and conversion performance.  
+-  **Automated Marketing Campaigns** — Email, push, and social media automation for customer engagement.  
+
+<img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/4b66f6df-5d99-4781-aa29-dc275ded0476" />
+
+**Tech Stack:** `C#` `ASP.NET MVC` `SQL Server` `HTML` `CSS` `Javascript` `Angular`
+
+**Complete:** 100% faster development cycles
 
 
 </td>
